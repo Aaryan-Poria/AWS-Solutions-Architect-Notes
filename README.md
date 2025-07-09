@@ -1,2 +1,2 @@
 # AWS-Solutions-Architect-Notes
-Notes for the AWS SAA Exam
+The notes that I referred for passing the AWS SAA Exam
